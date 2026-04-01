@@ -91,7 +91,7 @@ Une application Streamlit permet :
  ## Auteur
 
 ANOH AMON FRANCKLIN HEMERSON
-Master 1 Data Science – INSEEDS
+Master  Data Science – INSEEDS
 
 Supervisé par : Akposso Didier Martial
 
