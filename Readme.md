@@ -93,7 +93,7 @@ Une application Streamlit permet :
 ANOH AMON FRANCKLIN HEMERSON
 Master  Data Science – INSEEDS
 
-Supervisé par : Akposso Didier Martial
+Supervisé par : M.Akposso Didier Martial
 
 
 ##  ## Dashbord en ligne 
